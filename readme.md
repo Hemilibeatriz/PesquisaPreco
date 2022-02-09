@@ -4,7 +4,7 @@ Algoritmo de Automação de Processos desenvolvido em um ambiente virtual (Pycha
 
     O arquivo possui:        
 
-    pasta venv e .idea = criado automáticamente pelo Pycharm na hora da criação do Ambiente Virtual
+    pasta .idea = criado automáticamente pelo Pycharm na hora da criação do Ambiente Virtual
 
     main.py = arquivo a ser rodado
 
